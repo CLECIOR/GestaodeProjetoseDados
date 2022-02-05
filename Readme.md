@@ -1,0 +1,1 @@
+Modelo simples em MySQL para apresentação da Script SQL
